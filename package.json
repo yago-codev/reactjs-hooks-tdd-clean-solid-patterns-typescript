@@ -5,6 +5,9 @@
   "repository": "https://github.com/yago-codev/reactjs-hooks-tdd-clean-solid-patterns-typescript.git",
   "author": "Yago Milano <yago.codev@gmail.com> (https://github.com/yago-codev)",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "@types/node": "^14.0.6",
@@ -17,7 +20,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
-    "jest": "^26.0.1",
+    "jest": "25",
     "lint-staged": "^10.2.7",
     "ts-jest": "^26.1.0",
     "typescript": "^3.9.3"
